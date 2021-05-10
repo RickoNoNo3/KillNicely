@@ -1,0 +1,7 @@
+C:\Users\rick\Programs\0.net\KillNicely\bin\Release\KillNicely.dll.config
+C:\Users\rick\Programs\0.net\KillNicely\bin\Release\KillNicely.dll
+C:\Users\rick\Programs\0.net\KillNicely\bin\Release\KillNicely.pdb
+C:\Users\rick\Programs\0.net\KillNicely\obj\Release\KillNicely.csprojAssemblyReference.cache
+C:\Users\rick\Programs\0.net\KillNicely\obj\Release\KillNicely.csproj.CoreCompileInputs.cache
+C:\Users\rick\Programs\0.net\KillNicely\obj\Release\KillNicely.dll
+C:\Users\rick\Programs\0.net\KillNicely\obj\Release\KillNicely.pdb
